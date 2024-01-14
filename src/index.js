@@ -1,1 +1,1 @@
-console.log('начало проекта!')
+console.log('rfdfdfdsssssssssss')
